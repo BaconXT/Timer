@@ -20,7 +20,7 @@ def contagemRegressiva(segundos):
 
 
 
-segundos = input("Digite aqui o tempo em segundo: ")
+segundos = input("Digite ao lado seu tempo em segundo: ")
 
 contagemRegressiva(int(segundos))
 
